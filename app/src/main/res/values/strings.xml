@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Andela Learning Community</string>
+    <string name="welcome">Welcome to ALC 4.0</string>
+    <string name="about">About ALC</string>
+    <string name="profile">My Profile</string>
+    <string name="User">Francis Kamala Albert</string>
+    <string name="Track">Track:  Android</string>
+    <string name="Country">Country:  Kenya</string>
+    <string name="Email">Email:  frankkamala@gmail.com</string>
+    <string name="Phone">Phone Number:  +254720551855</string>
+    <string name="slack">Slack Username:  @FrancisKamala</string>
+
+</resources>
